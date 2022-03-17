@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/eventing-rabbitmq/cmd/dispatcher@sha256:1001eed441e4b438eda8520a3d02ad9f07ef0faae200864fd03caae04d4a7323
+From gcr.io/knative-releases/knative.dev/eventing-rabbitmq/cmd/receive_adapter@sha256:9b12feeee0140ddd557aa7dbe9a7f33cc711b6ba992f1562ebd6c1035b97f69f
