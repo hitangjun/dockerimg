@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:0b02e53609063d38d4fd651b49158723eb799092c4b45f0043f02a73958f7985
+From http://gcr.io/knative-releases/knative.dev/eventing/cmd/broker/ingress@sha256:6a8071928e727c0ebc2a27ab57a5cbca41bf4186d842f4308d177748f679a1d5
