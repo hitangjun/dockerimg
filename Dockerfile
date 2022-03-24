@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:980ed8d10c5cb8dbed5f2ec74dc81a1967c7f4ebb1f980789b9c42bbad5e74a7
+From gcr.io/knative-releases/knative.dev/pkg/apiextensions/storageversion/cmd/migrate@sha256:444ba25d5a7f0cd2d0c66b43a292dfda4c79c25c715e303c0679a2aa
