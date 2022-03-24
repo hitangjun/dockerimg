@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:ad80f6bda8f1bb6a6a6ecb6e83582d5bfcd319792e1c2708e4176eb0c08b40c5
+From gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:739bda03330ba238b8b1505aaf9700d4ddeb5492d47923776b19f4c1abadfac0
